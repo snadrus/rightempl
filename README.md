@@ -1,4 +1,4 @@
-# rightempl
+# rightmpl
 Go templating done right.
 
 text/template is slow & not composable.
